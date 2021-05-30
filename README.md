@@ -2,6 +2,11 @@
 
 https://github.com/tabmo/coding-challenge/blob/master/backend/scala-2021/index.md
 
+# Requirements
+* Docker
+* Docker Compose
+* Java
+
 # Technical description
 
 * use kafka and redis for infra
